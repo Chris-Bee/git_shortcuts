@@ -1,0 +1,7 @@
+alias gitka='gitk --all'
+alias gits='git status'
+alias gitl='git log'
+alias gitb='git branch'
+alias gitai='git add -i'
+alias gitau='git add -u'
+alias gitd='git diff'
